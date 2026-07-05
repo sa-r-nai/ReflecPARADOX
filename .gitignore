@@ -1,0 +1,75 @@
+﻿# Unity generated folders
+/Library/
+/Temp/
+/Obj/
+/Build/
+/Builds/
+/Logs/
+/UserSettings/
+/MemoryCaptures/
+/Recordings/
+
+# Unity generated files
+/*.csproj
+/*.sln
+/*.suo
+/*.user
+/*.userprefs
+/*.pidb
+/*.booproj
+/*.svd
+/*.pdb
+/*.mdb
+/*.opendb
+/*.VC.db
+/*.pidb.meta
+
+# Unity crash reports and profiling
+/sysinfo.txt
+/crashlytics-build.properties
+*.stackdump
+
+# Asset store tools can be restored from Unity
+/Assets/AssetStoreTools*
+
+# Visual Studio / Rider / JetBrains
+/.vs/
+/.idea/
+/.fleet/
+*.sln.DotSettings.user
+
+# Visual Studio Code
+/.vscode/*
+!/.vscode/settings.json
+!/.vscode/tasks.json
+!/.vscode/launch.json
+!/.vscode/extensions.json
+
+# OS metadata
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+*.bak
+*.swp
+*~
+
+# Archives and local builds
+*.apk
+*.aab
+*.unitypackage
+*.app
+*.exe
+*.msi
+*.dmg
+*.zip
+*.7z
+*.rar
